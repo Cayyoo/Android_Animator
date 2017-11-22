@@ -83,13 +83,13 @@
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/sector.png "扇形动画")
 </br>
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/1_ObjectAnimator.png "")
-
+</br>
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/1_ValueAnimator.png "")
-
+</br>
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/2_ValueAnimator.png "")
-
+</br>
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/3_Attributes.png "常用属性")
-
+</br>
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/4_method.png "常用方法")
-
+</br>
 ![](https://github.com/ykmeory/Android_Animator/blob/master/img/5_Interpolator.png "插值器")
